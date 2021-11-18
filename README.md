@@ -121,9 +121,25 @@ https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
 ##	Natural Language Processing
 
+o	Natural Language Processing - Stanford University
+
+https://youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
+
 o	Natural Language Processing Specialization – deeplearing.ai
 
 https://www.deeplearning.ai/program/natural-language-processing-specialization/
+
+o	Stanford CS224U: Natural Language Understanding
+
+http://web.stanford.edu/class/cs224u/
+
+https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+
+o	Stanford CS224N: Natural Language Processing with Deep Learning
+
+https://web.stanford.edu/class/cs224n/
+
+https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 
 ##	Computer Vision
