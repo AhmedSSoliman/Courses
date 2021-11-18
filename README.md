@@ -109,14 +109,23 @@ https://www.coursera.org/specializations/reinforcement-learning
 
 #	Data Science
 o	Database and SQL for Data Science - https://bit.ly/2zUk0zL
+
 o	Introduction to Data Science - https://bit.ly/32Nyj59
+
 o	Tableau Data Visualization - http://bit.ly/3jc74aW
+
 o	Data Analytics with Excel - https://bit.ly/2FYnZOY
+
 o	Python for Everybody - https://bit.ly/3j2HPqH
+
 o	Crash Course on Python - https://bit.ly/2RIMqm7
+
 o	Data Analysis with Python - https://bit.ly/3geiVDG
+
 o	AWS Fundamentals - https://bit.ly/35PUhq9
+
 o	Getting Started with Azure - https://bit.ly/35UZU6f
+
 o	Data Analysis and Presentation Skills - http://bit.ly/2YFyuwx
 
 
