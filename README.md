@@ -1,7 +1,7 @@
 # Courses
 You can find roadmaps for many tracks
 
-Artificial Intelligence
+# Artificial Intelligence
 
 •	Mathematics
 
@@ -31,7 +31,7 @@ https://www.khanacademy.org/math/linear-algebra
 Statistics and Probability
 https://www.khanacademy.org/math/statistics-probability
 
-•	Python:
+#	Python:
 
 Textbook:
 o	A Practical Introduction to Python Programming
@@ -45,7 +45,7 @@ https://www.coursera.org/learn/python-crash-course
 o	Statistics with Python Specialization
 https://www.coursera.org/specializations/statistics-with-python
 
-•	Machine Learning 
+#	Machine Learning 
 
 Textbooks
 
@@ -67,7 +67,7 @@ o	Machine Learning A-Z,
 https://www.udemy.com/course/machinelearning
 
 
-•	Deep Learning
+#	Deep Learning
 Textbook
 o	Dive into Deep Learning
 https://d2l.ai/
@@ -84,30 +84,30 @@ http://introtodeeplearning.com/
 https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
 
-•	Natural Language Processing
+#	Natural Language Processing
 
 o	Natural Language Processing Specialization – deeplearing.ai
 https://www.deeplearning.ai/program/natural-language-processing-specialization/
 
 
-•	Computer Vision
+#	Computer Vision
 
 o	CS231n: Convolutional Neural Networks for Visual Recognition
 http://cs231n.stanford.edu/
 
-•	For more practicing
+#	For more practicing
 https://www.fast.ai/
 
-•	TensorFlow Developer Professional Certificate
+#	TensorFlow Developer Professional Certificate
 https://www.deeplearning.ai/program/tensorflow-developer-professional-certificate/
 
-•	TensorFlow: Data and Deployment Specialization
+#	TensorFlow: Data and Deployment Specialization
 https://www.deeplearning.ai/program/tensorflow-data-and-deployment-specialization/
 
-•	Reinforcement Learning Specialization
+#	Reinforcement Learning Specialization
 https://www.coursera.org/specializations/reinforcement-learning
 
-•	Data Science
+#	Data Science
 o	Database and SQL for Data Science - https://bit.ly/2zUk0zL
 o	Introduction to Data Science - https://bit.ly/32Nyj59
 o	Tableau Data Visualization - http://bit.ly/3jc74aW
@@ -120,7 +120,7 @@ o	Getting Started with Azure - https://bit.ly/35UZU6f
 o	Data Analysis and Presentation Skills - http://bit.ly/2YFyuwx
 
 
-Embedded Systems Courses
+# Embedded Systems Courses
 
 1.	C Programming and Embedded C
 - Introduction to C Programming Arabic Amr Ali (Arabic)
