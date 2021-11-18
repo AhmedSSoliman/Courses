@@ -122,7 +122,7 @@ o	Data Analysis and Presentation Skills - http://bit.ly/2YFyuwx
 
 # Embedded Systems Courses
 
-1.	C Programming and Embedded C
+## 1.	C Programming and Embedded C
 - Introduction to C Programming Arabic Amr Ali (Arabic)
 https://lnkd.in/eTn3fVUa
 
@@ -142,54 +142,54 @@ https://lnkd.in/eb28pX8t
 https://lnkd.in/e-RDzXtM
 
 
-2) Embedded C and Embedded interfacing
-_Embedded System Course 2015 - Arabic
+## 2) Embedded C and Embedded interfacing
+- Embedded System Course 2015 - Arabic
 https://lnkd.in/enuv32Zn
 
-_Embedded C Programing - ATMEL AVR(Arabic)
+- Embedded C Programing - ATMEL AVR(Arabic)
 https://lnkd.in/ezvxzFcB
 
-_Embedded System Design using AVR Microcontroller (Arabic)
+- Embedded System Design using AVR Microcontroller (Arabic)
 https://lnkd.in/eaDUt7sd
 
-_ Embedded system course in Arabic
+- Embedded system course in Arabic
 https://lnkd.in/eGMVU5tf
 
-_ Embedded C (Arabic)
+- Embedded C (Arabic)
 https://lnkd.in/eQfhznRp
 
-_ Microcontroller and Interface
+- Microcontroller and Interface
 https://lnkd.in/eXxRnSNu
 Systems Course - PIC Microcontrollers Tutorials [Arabic]
 https://lnkd.in/eEgP8kkF
 
-_ Embedded Systems Minutes (ESM)
+- Embedded Systems Minutes (ESM)
 https://lnkd.in/ed9_Njgh
 
 
-3) ARM Cortex-M4
+## 3) ARM Cortex-M4
 https://lnkd.in/exY28uas
 
-_Modern Embedded Systems Programming Course
+- Modern Embedded Systems Programming Course
 https://lnkd.in/e2Y3QuyX
 
 
-4) Operating system (free RTOS )
-_ RTOS Course (Arabic)
+## 4) Operating system (free RTOS )
+- RTOS Course (Arabic)
 https://lnkd.in/eB9kPtRp
 
-_introduction to Embedded Real Time Operating systems (Arabic)
+- introduction to Embedded Real Time Operating systems (Arabic)
 https://lnkd.in/enDhNRNz
 
-_RTOS Quantum Leaps, LLC (English)
+- RTOS Quantum Leaps, LLC (English)
 https://lnkd.in/e-ya69fz
 
-_Real Time Operating Systems Concepts (RTOS)Series
+- Real Time Operating Systems Concepts (RTOS)Series
 https://lnkd.in/eDdhG5pk
 
-_ ITI operating system
+- ITI operating system
 https://lnkd.in/ebB-4gBk
 
 
-5) AUTOSAR videos (Advanced )
+## 5) AUTOSAR videos (Advanced )
 https://lnkd.in/euyxxWgJ
