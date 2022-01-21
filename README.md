@@ -148,6 +148,20 @@ https://www.deeplearning.ai/program/tensorflow-data-and-deployment-specializatio
 
 https://www.coursera.org/specializations/reinforcement-learning
 
+https://deepmind.com/learning-resources/reinforcement-learning-series-2021
+
+https://www.udemy.com/course/deep-reinforcement-learning-in-python/
+
+https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/
+
+https://www.udacity.com/course/reinforcement-learning--ud600
+
+https://www.youtube.com/watch?v=Mut_u40Sqz4
+
+https://www.youtube.com/watch?v=93M1l_nrhpQ
+
+
+
 #	Data Science
 
 o	Database and SQL for Data Science
@@ -189,6 +203,9 @@ https://bit.ly/35UZU6f
 o	Data Analysis and Presentation Skills
 
 http://bit.ly/2YFyuwx
+
+
+
 
 
 # Embedded Systems Courses
